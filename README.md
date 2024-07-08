@@ -1,6 +1,6 @@
 # Hi, I'm Kunal.
 
-Cybersecurity researcher trying to break into the industry.
+Cybersecurity researcher and engineer.
 
 <!-- ## Portfolio:
 - [KW](https://kunalwalavalkar.github.io)
