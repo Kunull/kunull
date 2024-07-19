@@ -1,6 +1,6 @@
 # Hi, I'm Kunal Walavalkar.
 
-Cybersecurity researcher and engineer.
+Security researcher.
 
 <!-- ## Portfolio:
 - [KW](https://kunalwalavalkar.github.io)
